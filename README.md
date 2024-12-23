@@ -1,4 +1,6 @@
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
+
+🎮 Coding | 🎨 Créative | 📚 Toujours curieuse | 🐱 Fan de chats
  
 Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
 J'aime découvrir de nouvelles technologies et trouver des méthodes astucieuses pour résoudre des problèmes. 🚀  
@@ -20,6 +22,11 @@ Voici un aperçu des technologies que j'utilise  :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
+## 🛠️ Tech Stack
+- 💻 **Frontend** : JavaScript
+- 🖥️ **Backend** : Symfony, Node.js, PHP, C#
+- 🐳 **Outils** : Docker, Git
+
 ---
 
 ## ✨ Un peu plus sur moi
@@ -35,7 +42,6 @@ Voici un aperçu des technologies que j'utilise  :
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlsia&layout=compact&theme=radical)
 ![Contribution Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=justlsia&theme=radical)
 
 
 
