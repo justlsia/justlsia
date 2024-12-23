@@ -1,3 +1,5 @@
+![Banner](https://example.com/banner-image-url)
+
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
  
 Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
