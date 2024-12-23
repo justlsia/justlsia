@@ -1,7 +1,8 @@
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
-  
-Étudiante passionnée de **développement logiciel** 🖥️, je m'épanouis dans la création de solutions modernes et innovantes. 🚀  
-Toujours curieuse, j'adore apprendre de nouvelles technologies et relever des défis techniques. 🌟  
+ 
+Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
+J'aime découvrir de nouvelles technologies et trouver des méthodes astucieuses pour résoudre des problèmes. 🚀  
+Toujours à la recherche d'amélioration, je suis curieuse et motivée à apprendre en permanence. 🌟
 
 ---
 
@@ -23,10 +24,9 @@ Voici un aperçu des technologies que j'utilise  :
 
 ## ✨ Un peu plus sur moi
 
-🌱 Je suis en constante évolution et j'adore approfondir mes compétences en développement et en architecture logicielle.  
-💡 Je m'intéresse particulièrement aux **méthodologies de projet** et aux outils d'**automatisation** et de **collaboration** qui boostent la productivité et font gagner un temps précieux.  
-🎯 Mon objectif : maîtriser ces pratiques pour concevoir des solutions efficaces et aider les équipes à atteindre leurs objectifs de manière fluide et harmonieuse !  
-💬 N’hésite pas à m’écrire pour discuter tech, échanger des idées, ou même partager une blague. 😄  
+🌱 Je suis en constante évolution et j'aime améliorer mes compétences en développement et en architecture logicielle.  
+💡 Je suis passionné par les méthodologies de projet, les outils d'automatisation et de collaboration, car ils améliorent la productivité et permettent de gagner un temps précieux.
+🎯 Mon but est de maîtriser ces pratiques pour élaborer des solutions efficaces, et participer à l'atteinte des objectifs de manière fluide et harmonieuse!  
 
 ---
 
