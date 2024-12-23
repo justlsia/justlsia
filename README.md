@@ -34,5 +34,9 @@ Voici un aperçu des technologies que j'utilise  :
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlsia&layout=compact&theme=radical)
+![Contribution Animation](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=justlsia&theme=radical)
+
+
 
 
