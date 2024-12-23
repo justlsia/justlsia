@@ -1,5 +1,3 @@
-![Banner](https://example.com/banner-image-url)
-
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
  
 Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
@@ -33,3 +31,10 @@ Voici un aperçu des technologies que j'utilise  :
 ---
 
 **Merci pour ta visite et à bientôt !** ✌️  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlsia&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justlsia&show_icons=true&theme=radical)
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=justlsia&theme=radical)
+
+
