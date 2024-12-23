@@ -1,6 +1,6 @@
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
 
-💻 Coding | 🎨 Créative | 📚 Toujours curieuse | 🐱 Fan de chats
+💻 Coding | 🎨 Créative | 📚 Toujours curieuse | 🐱 Fan de randos
  
 Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
 J'aime découvrir de nouvelles technologies et trouver des méthodes astucieuses pour résoudre des problèmes. 🚀  
