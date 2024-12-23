@@ -1,7 +1,5 @@
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
 
-![Computer]([https://img.icons8.com/?size=100&id=buti0ig4reqf&format=png&color=000000](https://icones8.fr/icon/buti0ig4reqf/moniteur))
-
 🎮 Coding | 🎨 Créative | 📚 Toujours curieuse | 🐱 Fan de chats
  
 Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
