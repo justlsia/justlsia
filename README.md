@@ -1,6 +1,6 @@
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
 
-!(https://www.flaticon.com/fr/icone-animee-gratuite/refonte_15713025)
+![](https://www.flaticon.com/fr/icone-animee-gratuite/refonte_15713025)
 
 🎮 Coding | 🎨 Créative | 📚 Toujours curieuse | 🐱 Fan de chats
  
