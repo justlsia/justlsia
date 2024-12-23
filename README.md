@@ -1,5 +1,7 @@
 # 👩‍💻 Salut ! Moi, c'est Lili ! 
 
+![Computer](https://img.icons8.com/?size=100&id=buti0ig4reqf&format=png&color=000000)
+
 🎮 Coding | 🎨 Créative | 📚 Toujours curieuse | 🐱 Fan de chats
  
 Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
@@ -25,7 +27,7 @@ Voici un aperçu des technologies que j'utilise  :
 ## 🛠️ Tech Stack
 - 💻 **Frontend** : JavaScript
 - 🖥️ **Backend** : Symfony, Node.js, PHP, C#
-- 🐳 **Outils** : Docker, Git
+- 🐳 **Outils** : Docker, Git, Trello
 
 ---
 
