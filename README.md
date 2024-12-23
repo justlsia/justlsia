@@ -34,7 +34,5 @@ Voici un aperçu des technologies que j'utilise  :
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlsia&layout=compact&theme=radical)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=justlsia&show_icons=true&theme=radical)
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=justlsia&theme=radical)
 
 
