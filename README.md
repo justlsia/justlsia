@@ -25,7 +25,7 @@ Voici un aperçu des technologies que j'utilise  :
 ## ✨ Un peu plus sur moi
 
 🌱 Je suis en constante évolution et j'aime améliorer mes compétences en développement et en architecture logicielle.  
-💡 Je suis passionné par les méthodologies de projet, les outils d'automatisation et de collaboration, car ils améliorent la productivité et permettent de gagner un temps précieux.
+💡 Je suis passionné par les méthodologies de projet, les outils d'automatisation et de collaboration, car ils améliorent la productivité et permettent de gagner un temps précieux. \
 🎯 Mon but est de maîtriser ces pratiques pour élaborer des solutions efficaces, et participer à l'atteinte des objectifs de manière fluide et harmonieuse!  
 
 ---
