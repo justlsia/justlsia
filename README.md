@@ -37,10 +37,6 @@ Voici un aperçu des technologies que j'utilise  :
 
 ---
 
-**Merci pour ta visite et à bientôt !** ✌️  
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justlsia&layout=compact&theme=radical)
 
 
 
