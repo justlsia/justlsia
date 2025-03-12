@@ -1,6 +1,6 @@
 # 👩‍💻 Salut, c'est Lili ! 
 
-💻 Coding | 🎨 Créative | 📚 Toujours curieuse | 🏔️ Fan de randos
+💻 Coding | 🎨 Créative | 📚 Toujours curieuse 
  
 ---
 
