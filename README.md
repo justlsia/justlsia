@@ -1,10 +1,10 @@
-# 👩‍💻 Salut ! Moi, c'est Lili ! 
+# 👩‍💻 Salut, c'est Lili ! 
 
 💻 Coding | 🎨 Créative | 📚 Toujours curieuse | 🏔️ Fan de randos
  
 ---
 
-## 🛠️ Mes Compétences
+## 🛠️ Compétences
 
 Un aperçu des technologies que j'utilise  :
 
