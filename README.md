@@ -2,15 +2,11 @@
 
 💻 Coding | 🎨 Créative | 📚 Toujours curieuse | 🏔️ Fan de randos
  
-Étudiante en **développement logiciel**, je suis passionnée par la création de solutions utiles et bien pensées.  
-J'aime découvrir de nouvelles technologies et trouver des méthodes astucieuses pour résoudre des problèmes. 🚀  
-Toujours à la recherche d'amélioration, je suis curieuse et motivée à apprendre en permanence. 🌟
-
 ---
 
 ## 🛠️ Mes Compétences
 
-Voici un aperçu des technologies que j'utilise  :
+Un aperçu des technologies que j'utilise  :
 
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
@@ -27,15 +23,6 @@ Voici un aperçu des technologies que j'utilise  :
 - 🖥️ **Backend** : Symfony, Node.js, PHP, C#
 - 🐳 **Outils** : Docker, Git, Trello
 
----
-
-## ✨ Un peu plus sur moi
-
-🌱 Je suis en constante évolution et j'aime améliorer mes compétences en développement et en architecture logicielle.  
-💡 Je suis passionné par les méthodologies de projet, les outils d'automatisation et de collaboration, car ils améliorent la productivité et permettent de gagner un temps précieux. \
-🎯 Mon but est de maîtriser ces pratiques pour élaborer des solutions efficaces, et participer à l'atteinte des objectifs de manière fluide et harmonieuse!  
-
----
 
 
 
