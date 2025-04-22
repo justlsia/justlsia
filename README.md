@@ -18,12 +18,6 @@ Un aperçu des technologies que j'utilise  :
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 
-## 🛠️ Tech Stack
-- 💻 **Frontend** : JavaScript
-- 🖥️ **Backend** : Symfony, Node.js, PHP, C#
-- 🐳 **Outils** : Docker, Git, Trello
-
-
 
 
 
